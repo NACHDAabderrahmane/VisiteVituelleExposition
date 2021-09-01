@@ -1,0 +1,45 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sans titre 2
+
+## Media
+
+### Title
+album_206162F6_3473_C043_41B2_18ED0DEABE69.label = Album Photo ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_206162F6_3473_C043_41B2_18ED0DEABE69_0.label = ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_209188C4_3472_4045_41BD_99ED07382CCC.label = Album Photo ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_209188C4_3472_4045_41BD_99ED07382CCC_0.label = ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_27149BFA_3451_C03F_41C9_0511273B5EAE.label = Album Photo CANOPEE OISEAUX GALERIE_FIN-01
+album_27149BFA_3451_C03F_41C9_0511273B5EAE_0.label = CANOPEE OISEAUX GALERIE_FIN-01
+panorama_47B2B29A_524C_C742_41BF_85FB401ABAF4.label = pano_2 - Panorama 
+panorama_4C036354_4353_C84A_41AC_334B2FAA82AF.label = pano_1 - Panorama 
+panorama_4DCF825C_4350_C87B_41B5_07447BB80AAB.label = pano_9 - Panorama 
+panorama_511D6055_42AD_89FA_41C1_0394C376A506.label = pano_3 - Panorama 
+panorama_869339E8_9627_6709_41BF_DDD979DFFF03.label = pano_7 - Panorama 
+panorama_8698B77B_9627_2B0E_41D0_85A696CCAF60.label = pano_8 - Panorama 
+panorama_86C824E4_9627_6D3A_41DA_13B43016C3F9.label = pano_10 - Panorama 
+panorama_86E49FB1_9626_DB1D_41CD_EB01B29A9DB8.label = Panorama New_13 - Panorama 
+panorama_86F26DE8_9626_DF0B_41C3_AB82F5CADB33.label = Panorama New_12 - Panorama 
+panorama_872516F4_9621_2D1A_41DA_D3568A909966.label = pano 11
+panorama_8737FF3B_9621_FB0F_41C1_E7DFD5C8E239.label = pano_4 - Panorama 
+panorama_87613152_9621_2719_41E0_80AC3ADBD0BC.label = pano_5 - Panorama 
+panorama_877B4925_9626_E73B_41E0_F8466957F887.label = pano_6 -effets premiere pano
+video_652E7002_7642_D4DC_41D7_48738C1CAFE9.label = 210129 EXPO VIRTUELLE TER_1_1
+
+## Action
+
+### URL
+LinkBehaviour_3615926D_3815_8FA0_41B4_2B600AA1FFAE.source = https://librairievolume.bigcartel.com/product/ter_sols_vivants
+LinkBehaviour_441F7B15_525C_C54C_41B1_1C1A972A4C56.source = http://www.hekladonia.com/
+PopupWebFrameBehaviour_20F4ABB7_3432_C0DC_41AE_D5E9A125C2F1.url = //www.youtube.com/embed/jWdRqEnBHAc
+PopupWebFrameBehaviour_235816F6_34D6_406E_41BC_A30CBF6F5741.url = //www.youtube.com/embed/KF2rxqQrdyk
+PopupWebFrameBehaviour_239A8503_34D2_41A5_4192_47C3E4378496.url = //www.youtube.com/embed/x2OeU7cMcvA
+PopupWebFrameBehaviour_23ADC4DA_34F1_C0A1_41C5_995A4288FCE0.url = //www.youtube.com/embed/2aXaShR0gN8
+PopupWebFrameBehaviour_23FDC45F_34D6_405E_41B1_BCD936090E1A.url = //www.youtube.com/embed/DfACckzVsS4
+PopupWebFrameBehaviour_4732F12F_5243_C558_41CD_A32CFB777A25.url = //www.youtube.com/embed/WbFJD3b7tMo
+PopupWebFrameBehaviour_473F5DF5_524C_DCC9_41B7_B574FF343E6A.url = //www.youtube.com/embed/v_8PN7k6gRA
