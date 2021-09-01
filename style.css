@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
-	background-image: url(img/affiche-web-dernieres-dates-scaled.jpg);
+	background-image: url(img/affiche-web.jpg);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgba(0, 0, 0, 0.534);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -145,17 +145,7 @@ body {
 		color: darkgray;
 		margin-bottom: 40px;
 	}
-	.location {
-		text-align: center;
-		color: white;
-		font-size: 0.8em;
-		display: block;
-		background-color: cornflowerblue;
-		padding: 10px;
-		margin-left: 7%;
-		margin-right: 7%;
-		border-radius: 8px;
-	}
+	
 }
 
 @media (min-width: 100px) and (max-width: 728px) and (orientation:landscape) {
@@ -230,7 +220,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/affiche-web-dernieres-dates-scaled.jpg) fixed no;
+		background: url(img/affiche-web.jpg) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
