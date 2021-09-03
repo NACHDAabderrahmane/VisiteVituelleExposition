@@ -271,17 +271,7 @@ body {
 		color: darkgray;
 		margin-bottom: 40px;
 	}
-	.location {
-		text-align: center;
-		color: white;
-		font-size: 1.8em;
-		display: block;
-		background-color: cornflowerblue;
-		padding: 10px;
-		margin-left: 7%;
-		margin-right: 7%;
-		border-radius: 8px;
-	}
+	
 }
 
 
@@ -310,6 +300,6 @@ body {
 
 footer {
 	text-align: center;
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 1.2em
 }
